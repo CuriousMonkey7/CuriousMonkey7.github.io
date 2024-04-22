@@ -4,8 +4,9 @@
 **Tech Stack:** Python, PyTorch, Pandas, NumPy, Linux, CLI, Git, Selenium, Docker.
 
 ## Education			        		
-- B.Tech(Computer Science) | IIIT Delhi(_Aug 2019- May 2023_)
-- High School(STEM) | Prince International School 
+**B.Tech(Computer Science) | IIIT Delhi(_Aug 2019- May 2023_)**
+
+**High School(STEM) | Prince International School**
 
 ## Work Experience
 **Data Scientist @ Jio Platforms Limited (_June 2023 - Present_)**
