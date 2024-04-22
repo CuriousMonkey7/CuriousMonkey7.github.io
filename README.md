@@ -1,6 +1,6 @@
 # Data Scientist
-#### Technical Skills: Machine Learning, Computer Vision, Remote Sensing,  Data Engineering, Distributed Systems.
-#### Tech Stack: Python, PyTorch, Pandas, NumPy, Linux, CLI, Git, Selenium, Docker.
+**Technical Skills:** Machine Learning, Computer Vision, Remote Sensing,  Data Engineering, Distributed Systems.
+**Tech Stack:** Python, PyTorch, Pandas, NumPy, Linux, CLI, Git, Selenium, Docker.
 
 ## Education			        		
 - B.Tech., Computer Science Engineering | IIIT Delhi(_Aug 2019- May 2023_)
