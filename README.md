@@ -1,5 +1,6 @@
 # Data Scientist
 **Technical Skills:** Machine Learning, Computer Vision, Remote Sensing,  Data Engineering, Distributed Systems.
+
 **Tech Stack:** Python, PyTorch, Pandas, NumPy, Linux, CLI, Git, Selenium, Docker.
 
 ## Education			        		
@@ -22,7 +23,7 @@
 pipeline, leading to 10x increment in team’s productivity.
 
 ## Publications
-**[WACV’24 ORAL]{https://sites.google.com/iiitd.ac.in/sickle/home}** Depanshu Sani, Sandeep Mahato, **Sourabh Saini**, Harsh Kumar Agarwal, Charu Chandra Devshali, Saket Anand, Gaurav Arora and Thiagarajan Jayaraman, . "SICKLE: A Multi-Sensor Satellite Imagery Dataset Annotated with Multiple Key Cropping Parameters." 
+[WACV’24(ORAL)]{https://sites.google.com/iiitd.ac.in/sickle/home} Depanshu Sani, Sandeep Mahato, **Sourabh Saini**, Harsh Kumar Agarwal, Charu Chandra Devshali, Saket Anand, Gaurav Arora and Thiagarajan Jayaraman, . "SICKLE: A Multi-Sensor Satellite Imagery Dataset Annotated with Multiple Key Cropping Parameters." 
 
 ## Projects
 ### Neural Image Captioning | [Project Report](https://drive.google.com/file/d/1Jw1OsQK1T9-7MOey2FR1l8qQlr0Vp3KQ/view?usp=sharing)
@@ -41,9 +42,9 @@ Machine Learning | Sentiment Analysis
 sentiment classification model..
 - By using non-heuristic based approach we achieved similar performance as reference paper with 20x less parameters.
 
-
+<!-- 
 ### TEACHING AND ACTIVITIES
 - Teaching Assistant | Computer Vision, Winter’23, IIIT Delhi
 - Lead Organizer | LiDAR Data Challenge, IIIT Delhi
 - 13th Place | Wadhwani AI Bollworm Counting Challenge 
-- Open Source Contributor | Zulip
+- Open Source Contributor | Zulip -->
