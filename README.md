@@ -3,7 +3,7 @@
 **Tech Stack:** Python, PyTorch, Pandas, NumPy, Linux, CLI, Git, Selenium, Docker.
 
 ## Education			        		
-- B.Tech., Computer Science Engineering | IIIT Delhi(_Aug 2019- May 2023_)
+- B.Tech(Computer Science) | IIIT Delhi(_Aug 2019- May 2023_)
 - High School(STEM) | Prince International School 
 
 ## Work Experience
