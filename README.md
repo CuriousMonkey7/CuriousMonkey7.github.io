@@ -42,7 +42,7 @@ sentiment classification model..
 - By using non-heuristic based approach we achieved similar performance as reference paper with 20x less parameters.
 
 
-## TEACHING AND ACTIVITIES
+### TEACHING AND ACTIVITIES
 - Teaching Assistant | Computer Vision, Winter’23, IIIT Delhi
 - Lead Organizer | LiDAR Data Challenge, IIIT Delhi
 - 13th Place | Wadhwani AI Bollworm Counting Challenge 
