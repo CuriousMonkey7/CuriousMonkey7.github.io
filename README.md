@@ -4,9 +4,8 @@
 **Tech Stack:** Python, PyTorch, Pandas, NumPy, Linux, CLI, Git, Selenium, Docker.
 
 ## Education			        		
-> B.Tech(Computer Science) | IIIT Delhi(_Aug 2019- May 2023_)
-
-> High School(STEM) |   Prince International School
+- B.Tech(Computer Science) | IIIT Delhi(_Aug 2019- May 2023_)
+- High School(STEM) |     Prince International School
 
 ## Work Experience
 **Data Scientist @ Jio Platforms Limited (_June 2023 - Present_)**
@@ -24,7 +23,7 @@
 pipeline, leading to 10x increment in team’s productivity.
 
 ## Publications
-[WACV’24(ORAL)](https://sites.google.com/iiitd.ac.in/sickle/home) | Depanshu Sani, Sandeep Mahato, **Sourabh Saini**, Harsh Kumar Agarwal, Charu Chandra Devshali, Saket Anand, Gaurav Arora and Thiagarajan Jayaraman, . "SICKLE: A Multi-Sensor Satellite Imagery Dataset Annotated with Multiple Key Cropping Parameters." 
+**[WACV’24(ORAL)](https://sites.google.com/iiitd.ac.in/sickle/home)** | Depanshu Sani, Sandeep Mahato, **Sourabh Saini**, Harsh Kumar Agarwal, Charu Chandra Devshali, Saket Anand, Gaurav Arora and Thiagarajan Jayaraman, . "SICKLE: A Multi-Sensor Satellite Imagery Dataset Annotated with Multiple Key Cropping Parameters." 
 
 ## Projects
 #### Neural Image Captioning | [Project Report](https://drive.google.com/file/d/1Jw1OsQK1T9-7MOey2FR1l8qQlr0Vp3KQ/view?usp=sharing)
