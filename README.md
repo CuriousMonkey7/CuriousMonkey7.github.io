@@ -1,15 +1,10 @@
 # Data Scientist
-
+#### Technical Skills: Machine Learning, Computer Vision, Remote Sensing,  Data Engineering, Distributed Systems.
+#### Tech Stack: Python, PyTorch, Pandas, NumPy, Linux, CLI, Git, Selenium, Docker.
 
 ## Education			        		
 - B.Tech., Computer Science Engineering | IIIT Delhi(_Aug 2019- May 2023_)
 - High School(STEM) | Prince International School 
-
-#### Technical Skills
-# Tech Stack: Python PyTorch, Pandas, NumPy, Scikit-learn, Jupyter Notebook.
-# Tools and Technologie: Git, Selenium, Linux, CLI, Web Scraping, Docker.
-# Coursework: Advance Machine Learning, Machine Learning, Computer Vision, Linear Algebra
-
 
 ## Work Experience
 **Data Scientist @ Jio Platforms Limited (_June 2023 - Present_)**
@@ -30,20 +25,17 @@ pipeline, leading to 10x increment in team’s productivity.
 **[WACV’24 ORAL]{https://sites.google.com/iiitd.ac.in/sickle/home}** Depanshu Sani, Sandeep Mahato, **Sourabh Saini**, Harsh Kumar Agarwal, Charu Chandra Devshali, Saket Anand, Gaurav Arora and Thiagarajan Jayaraman, . "SICKLE: A Multi-Sensor Satellite Imagery Dataset Annotated with Multiple Key Cropping Parameters." 
 
 ## Projects
-### Neural Image Captioning
-[Project Report](https://drive.google.com/file/d/1Jw1OsQK1T9-7MOey2FR1l8qQlr0Vp3KQ/view?usp=sharing)
+### Neural Image Captioning | [Project Report](https://drive.google.com/file/d/1Jw1OsQK1T9-7MOey2FR1l8qQlr0Vp3KQ/view?usp=sharing)
 Vision Transformer | Multi-Modality | Adversarial Training
 - Used ViT to encode images and GPT-2 as text decoder for image captioning.
 - Tested models on Adversarial examples to assess robustness of the model.
 
-### Adversarial Contrastive Learning
-[Project Report](https://drive.google.com/file/d/12RagwuKaiQiDadEGx7nd6lcQa1T-oBsi/view)
+### Adversarial Contrastive Learning | [Project Report](https://drive.google.com/file/d/12RagwuKaiQiDadEGx7nd6lcQa1T-oBsi/view)
 Self Supervised Learning | Adversarial Training | Computer Vision
 - Improved SOTA model convergence by 4x through introducing Minkowski distance measure.
 - Used low curvature activation function to handle over-fitting issue of pre-trained model.
 
-### Humor Detection in Text 
-[Project Report](https://drive.google.com/file/d/1UPYR6H0Kvb36ArdFMP1leb1aHtLdM1mt/view)
+### Humor Detection in Text | [Project Report](https://drive.google.com/file/d/1UPYR6H0Kvb36ArdFMP1leb1aHtLdM1mt/view)
 Machine Learning | Sentiment Analysis
 - Employed diverse language models to generate meaningful vector representations, leveraging them to construct a
 sentiment classification model..
@@ -55,7 +47,3 @@ sentiment classification model..
 - Lead Organizer | LiDAR Data Challenge, IIIT Delhi
 - 13th Place | Wadhwani AI Bollworm Counting Challenge 
 - Open Source Contributor | Zulip
-
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
